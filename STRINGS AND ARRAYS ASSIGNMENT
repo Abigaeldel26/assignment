@@ -1,0 +1,13 @@
+Strings and Arrays in Programming
+Strings and arrays are important in programming because they help us store and work with data. A string is a sequence of characters used to represent text, such as names, sentences, or documents. For example, in Python:
+text = "Hello world"
+print(text)
+This shows how a string can store and display text like in a document.
+An array (called a list in Python) is used to store multiple values in one variable. For example:
+names = ["Rose", "John", "Amina"]
+print(names[0])
+This stores several names and allows us to access each one.
+Strings and arrays can also be used together. For example, storing sentences in an array:
+sentences = ["Line one", "Line two", "Line three"]
+for line in sentences:
+    print(line)
